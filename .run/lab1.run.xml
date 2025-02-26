@@ -1,6 +1,6 @@
 <component name="ProjectRunConfigurationManager">
   <configuration default="false" name="lab1" type="JetRunConfigurationType">
-    <option name="MAIN_CLASS_NAME" value="lab1.MainKt" />
+    <option name="MAIN_CLASS_NAME" value="lab1.Lab1Kt" />
     <module name="object-oriented-analysis-and-design_6-semester.main" />
     <shortenClasspath name="NONE" />
     <method v="2">
