@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="lab4" type="JetRunConfigurationType">
+    <option name="MAIN_CLASS_NAME" value="lab4.Lab4Kt" />
+    <module name="object-oriented-analysis-and-design_6-semester.main" />
+    <shortenClasspath name="NONE" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
