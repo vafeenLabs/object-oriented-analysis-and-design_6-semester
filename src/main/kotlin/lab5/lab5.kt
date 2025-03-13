@@ -10,6 +10,7 @@ import lab5.old_systems.OldEuroPaymentSystem
 import lab5.old_systems.OldRublePaymentSystem
 
 /**
+ * Паттерн: Алаптер
  *Описание задачи: Вам нужно разработать систему,
  * которая поддерживает обработку платежей
  * в разных валютах (рубли, доллары, евро)
